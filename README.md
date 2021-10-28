@@ -6,4 +6,4 @@ This projected was implemented to reinforce the learnings I got with the followi
 - TypeScript parte 2: Avançando na línguagem
 - TypeScript parte 3: Mais técnicas e boas práticas
 
-The api folder, his files, HTML files and CSS files were given at the start of the course, and the files at the app folder were developed throughout the courses
+The api folder, his files, HTML files and CSS files were given at the start of the course, and the TypeScript files at the app folder were developed throughout the courses
